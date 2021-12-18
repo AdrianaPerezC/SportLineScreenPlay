@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="HU-002 Buscador SportLine" skipped="0" tests="2" time="87.03" timestamp="2021-12-18 12:47:59"><testcase name="Seleccionar promociones"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+tasks.SeleccionarPromociones.performAs(SeleccionarPromociones.java:13)&#13;
+stepsDefinitions.SportLineSeleccionarPromociones.seleccioneLaSeccionPromocionesDeLaPaginaSportLine(SportLineSeleccionarPromociones.java:25)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase><testcase name="seleccionar el primer producto que aparezca en promociones"/></testsuite>
